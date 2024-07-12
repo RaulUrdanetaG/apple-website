@@ -6,6 +6,7 @@ This is an apple website clone, that features actual interactivity in apple's we
 * [Techonologies](#built-with)
 * [Motivation](#motivation)
 * [App](#app)
+*  * [Live Website](#live-website)
 * [Installation](#installation)
 * [Inspiration](#inspiration)
 
@@ -21,11 +22,12 @@ This is an apple website clone, that features actual interactivity in apple's we
 ## Motivation
 In completing this project, my primary objectives were to deepen my understanding of threeJs for 3D model interactivity in the web, and gsap for smooth and clean animations, By immersing myself in these technologies, I aimed to enhance my skill set and gain practical experience that would not only solidify my knowledge but also enable me to build more interesting web sites.
 ## App
-# Live website
+## [Live Website](https://raulurdanetag.github.io/apple-website/ )
 https://raulurdanetag.github.io/apple-website/ 👈
 
-![Website UI](/public/assets/fullScreen.webp)
-![Website Mobile UI](/public/assets/mobile.webp)
+| ![Website UI](/public/assets/fullScreen.webp) | ![Website Mobile UI](/public/assets/mobile.webp) |
+|:---------------------------------------------:|:------------------------------------------------:|
+|                   Website UI                  |               Website Mobile UI                  |
 
 ## Installation
 ```bash

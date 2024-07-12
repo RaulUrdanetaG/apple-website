@@ -14,6 +14,9 @@ export default {
         zinc: "#101010",
       },
     },
+    fontFamily: {
+      apple: ["Roboto"],
+    },
   },
   plugins: [],
 };

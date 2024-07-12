@@ -8,7 +8,7 @@ import Navbar from "./components/Navbar";
 
 export default function App() {
   return (
-    <main className="bg-black">
+    <main className="bg-black font-['Roboto']">
       <Navbar />
       <Hero />
       <Highlights />

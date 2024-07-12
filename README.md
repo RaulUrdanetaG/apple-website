@@ -21,10 +21,11 @@ This is an apple website clone, that features actual interactivity in apple's we
 ## Motivation
 In completing this project, my primary objectives were to deepen my understanding of threeJs for 3D model interactivity in the web, and gsap for smooth and clean animations, By immersing myself in these technologies, I aimed to enhance my skill set and gain practical experience that would not only solidify my knowledge but also enable me to build more interesting web sites.
 ## App
-[Live Site](https://discord-clone-raul-urdaneta.up.railway.app/) 👈
+# Live website
+https://raulurdanetag.github.io/apple-website/ 👈
 
-![Website UI](/public/assets/full-screen.mp4)
-![Website Mobile UI](/public/assets/mobile.mp4)
+![Website UI](/public/assets/fullScreen.webp)
+![Website Mobile UI](/public/assets/mobile.webp)
 
 ## Installation
 ```bash

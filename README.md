@@ -1,5 +1,5 @@
 # Portfolio discord clone
-This is an apple website clone, that features actual interactivity in apple's website, like 3D models and videos!.
+This is an apple's landing page clone, that features actual interactivity in apple's landing page, like 3D models and videos!.
 
 ## Content table
 

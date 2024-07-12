@@ -1,12 +1,11 @@
 # Portfolio discord clone
-This is a discord clone app that tries to replicate the actual discord UI, with most of its basic features, including server creation and management, invite links to join the server, user managment with roles; text and audio channels with real time chat and videoconferencing, direct messages between server members and more!.
+This is an apple website clone, that features actual interactivity in apple's website, like 3D models and videos!.
 
 ## Content table
 
 * [Techonologies](#built-with)
 * [Motivation](#motivation)
 * [App](#app)
-  * [Database Schema](#database-schema)
 * [Installation](#installation)
 * [Inspiration](#inspiration)
 
@@ -20,23 +19,20 @@ This is a discord clone app that tries to replicate the actual discord UI, with 
 </div>
 
 ## Motivation
-In completing this project, my primary objectives were to deepen my understanding of Next.js and to get a good understanding about web socket, and videoconferencing implementations as my primary focus lies in backend development. By immersing myself in these technologies, I aimed to enhance my skill set and gain practical experience that would not only solidify my knowledge but also enable me to build more robust and real-time web applications.
+In completing this project, my primary objectives were to deepen my understanding of threeJs for 3D model interactivity in the web, and gsap for smooth and clean animations, By immersing myself in these technologies, I aimed to enhance my skill set and gain practical experience that would not only solidify my knowledge but also enable me to build more interesting web sites.
 ## App
 [Live Site](https://discord-clone-raul-urdaneta.up.railway.app/) 👈
 
-![App UI](/public/discord-clone-final-app.png)
-
-### Database Schema
-![DB schema](/public//db-schema.webp)
-<a href='https://dbdiagram.io/d/6669d0b2a179551be6b89f1f'>Or look at it in here.<a/>
+![Website UI](/public/assets/full-screen.mp4)
+![Website Mobile UI](/public/assets/mobile.mp4)
 
 ## Installation
 ```bash
 # Clone this repo 
-$ git clone https://github.com/RaulUrdanetaG/discord-clone.git
+$ git clone https://github.com/RaulUrdanetaG/apple-website.git
 
 # Go into the repository
-$ cd discord-clone
+$ cd apple-website
 
 # Install dependencies
 $ npm install 

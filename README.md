@@ -47,5 +47,5 @@ $ npm run build
 $ npm start
 ```
 
-## Inspiration
+### Inspiration
 This app is based on JavaScriptMastery Tutorial.
